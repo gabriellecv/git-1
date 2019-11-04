@@ -1,0 +1,19 @@
+No ramo master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (utilize "git add/rm <arquivo>..." para atualizar o que será submetido)
+  (utilize "git checkout -- <arquivo>..." para descartar mudanças no diretório de trabalho)
+
+	deleted:    ../java-12/src/main/java/com/challenge/endpoints/ResourceServerConfig.java
+	deleted:    ../java-12/src/main/java/com/challenge/endpoints/SpringAuthenticationServerConfig.java
+	deleted:    ../java-12/src/main/java/com/challenge/endpoints/WebSecurityConfigAdapter.java
+	modified:   ../java-12/src/main/resources/application.properties
+
+Arquivos não monitorados:
+  (utilize "git add <arquivo>..." para incluir o que será submetido)
+
+	./
+	../java-12/src/main/java/com/challenge/config/
+
+nenhuma modificação adicionada à submissão (utilize "git add" e/ou "git commit -a")
